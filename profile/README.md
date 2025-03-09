@@ -1,5 +1,3 @@
 <p align="center">
-  <img src="https://bnetcmsus-a.akamaihd.net/cms/template_resource/DXDAN5KT326U1541005861696.png" alt=""/>
+  <img src="https://github.com/WarRaft/.github/blob/main/preview/logo.png?raw=true" alt=""/>
 </p>
-
-- [https://github.com/WarRaft/JASS-ANTLR-Kotlin-VSCode] 
