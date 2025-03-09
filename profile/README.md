@@ -1,3 +1,1 @@
-# WarRaft
-
-Building Communism in Warcraft III
+Make raft, not war.
