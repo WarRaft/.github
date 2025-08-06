@@ -1,7 +1,12 @@
-# [JASS Tree-sitter Rust](https://github.com/WarRaft/JASS-Tree-sitter-Rust)
+Welcome aboard the **WarRaft** — a totally unnecessary, semi-serious and fully heart-driven voyage to build tools for a
+20-year-old game that never really left our hearts.
 
-We're currently working on a totally serious VSCode plugin that brings Tree-sitter-powered syntax support for the JASS
-scripting language — written in Rust, of course, because why not overengineer a 20-year-old language?
+Flying the **Jolly Roger**, we sail through forgotten file formats and cursed codebases — not because anyone asked, but
+because *we still care*.  
+This isn't just about tech. It's about the smell of pine trees in Ashenvale, the clash of Blademasters, and that one
+custom map you could never finish.
 
-This highly unnecessary yet oddly satisfying project is our small (and possibly misguided) attempt to make the world a
-better place, one obscure scripting language at a time.
+## 🏴‍☠️ Join us
+
+If you still hum the menu music, remember which patch broke your favorite map, and feel a strange warmth opening World
+Editor — you’re one of us. Climb aboard.
