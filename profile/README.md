@@ -10,3 +10,5 @@ custom map you could never finish.
 
 If you still hum the menu music, remember which patch broke your favorite map, and feel a strange warmth opening World
 Editor — you’re one of us. Climb aboard.
+
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/CNeQmXAgVq)](https://discord.gg/CNeQmXAgVq)
